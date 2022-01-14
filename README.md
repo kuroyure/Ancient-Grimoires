@@ -4,7 +4,7 @@ Minecraft mod for ppl of culture
                        general progression:
 -sigth mod content and get chat message hinting at the obtention of notebooks
 
--obtain notebook, create a compendium by studying one of the subjects (magic, mythical beasts, alchemy, geology)
+-obtain notebook, create a compendium by studying one of the subjects (artifice, magic, mythical beasts, alchemy, geology)
 
 -craft a soul mirror to choose your arcane origin and progress your perks
 
