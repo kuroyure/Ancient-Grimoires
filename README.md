@@ -10,7 +10,7 @@ Minecraft mod for ppl of culture
 
 -craft an alchemy table and attempt a few cococtions like isolating elements or creating compounds(table uses concepts such as:NCTP, balance, concentration, catalizers, reversible reactions, endothermy and exothermy
 
--chalk deposits for magic circles and alchemy, wolframium ore (mining level obsidian)
+-calcite deposits are crafted into chalk (randomly breaks instead of durability, stackable)for magic circles and alchemy, wolframium ore (mining level obsidian)
 
 -spellcrafting table, starter spells, small rites
 
